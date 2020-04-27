@@ -17,5 +17,3 @@ def train():
   saver.save(clf)
 
   return clf
-
-train()
